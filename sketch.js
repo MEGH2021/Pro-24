@@ -33,7 +33,7 @@ function setup() {
 
 function draw() {
   rectMode(CENTER);
-  background(bg);
+  background("white");
  
   
   paperObject.display();
